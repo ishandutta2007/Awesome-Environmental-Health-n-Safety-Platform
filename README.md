@@ -58,7 +58,7 @@ Below is a curated matrix of top enterprise EHS SaaS platforms, ranked by **esti
 
 ## 🔓 Open-Source EHS Infrastructure & Building Blocks 💻
 
-Below are open-source EHS platforms, HSE calculators, and foundational software building blocks (databases, telemetry, analytics engines, IoT frameworks), ranked by **GitHub Stars_Count** in descending order.
+Below are open-source EHS platforms, HSE calculators, and foundational software building blocks (databases, telemetry, analytics engines, IoT frameworks), ranked by **GitHub_Stars_Count** in descending order.
 
 | Repository & Project Name 📦 | GitHub_Stars ⭐ | Primary License 📜 | Tech Stack & Core EHS/Infrastructure Role 🛠️ |
 | :--- | :--- | :--- | :--- |
