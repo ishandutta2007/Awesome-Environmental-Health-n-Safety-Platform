@@ -1,6 +1,6 @@
 # Awesome-Environmental-Health-n-Safety-Platform
 
-## Top Environmental Health & Safety (EHS) Platforms Ecosystem
+### Top Environmental Health & Safety (EHS) Platforms Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 *Focused on Environmental, Health & Safety Management, Workplace Safety, Risk, Compliance & Sustainability*
