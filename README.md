@@ -58,9 +58,9 @@ Below is a curated matrix of top enterprise EHS SaaS platforms, ranked by **esti
 
 ## 🔓 Open-Source EHS Infrastructure & Building Blocks 💻
 
-Below are open-source EHS platforms, HSE calculators, and foundational software building blocks (databases, telemetry, analytics engines, IoT frameworks), ranked by **GitHub Star Count** in descending order.
+Below are open-source EHS platforms, HSE calculators, and foundational software building blocks (databases, telemetry, analytics engines, IoT frameworks), ranked by **GitHub Stars_Count** in descending order.
 
-| Repository & Project Name 📦 | GitHub Stars ⭐ | Primary License 📜 | Tech Stack & Core EHS/Infrastructure Role 🛠️ |
+| Repository & Project Name 📦 | GitHub_Stars ⭐ | Primary License 📜 | Tech Stack & Core EHS/Infrastructure Role 🛠️ |
 | :--- | :--- | :--- | :--- |
 | **[Grafana](https://github.com/grafana/grafana)** | [<img src="https://img.shields.io/github/stars/grafana/grafana?style=social&color=white" alt="Grafana Stars"/>](https://github.com/grafana/grafana/stargazers) | AGPL-3.0 | AGPL • Real-time operational dashboarding, EHS KPI tracking, environmental sensor telemetry, and safety metrics visualization. |
 | **[Apache Superset](https://github.com/apache/superset)** | [<img src="https://img.shields.io/github/stars/apache/superset?style=social&color=white" alt="Apache Superset Stars"/>](https://github.com/apache/superset/stargazers) | Apache-2.0 | Python/TypeScript • Enterprise EHS business intelligence dashboards, compliance reporting, and incident analytical charts. |
